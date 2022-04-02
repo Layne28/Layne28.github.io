@@ -6,6 +6,9 @@ venue: "University of California, Berkeley"
 location: "Berkeley, California"
 ---
 
+I was a Graduate Student Instructor (TA) for a range of chemistry courses at UC Berkeley.
+=====
+
 CHEM 220A: Thermodynamics and Statistical Mechanics, Fall 2017
 ======
 I was a TA for this graduate-level course. I graded homework and exams, held office hours, and led discussion sections.
