@@ -1,5 +1,5 @@
 ---
-title: "“Single-particle mapping
+title: "Single-particle mapping
 of nonequilibrium nanocrystal transformations"
 collection: publications
 permalink: 
