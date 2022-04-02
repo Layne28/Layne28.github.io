@@ -4,7 +4,7 @@ collection: teaching
 type: 
 permalink: /teaching/uc-berkeley
 venue: "University of California, Berkeley"
-date: 
+date: 2015-09-01
 location: "Berkeley, California"
 ---
 
