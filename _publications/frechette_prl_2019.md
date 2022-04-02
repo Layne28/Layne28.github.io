@@ -1,5 +1,5 @@
 ---
-title: "Consequences of Lattice Mismatch for Phase Equilibrium in Heterostructured Solids"
+title: "Consequences of lattice mismatch for phase equilibrium in heterostructured solids"
 collection: publications
 permalink: 
 excerpt:
