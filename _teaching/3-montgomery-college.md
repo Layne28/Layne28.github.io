@@ -1,7 +1,7 @@
 ---
 title: "Adjunct Instructor"
 collection: teaching
-permalink: /teaching/uc-berkeley
+permalink: /teaching/3-montgomery-college
 venue: "Montgomery College"
 location: "Rockville, Maryland"
 ---
