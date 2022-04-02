@@ -3,7 +3,6 @@ title: "Graduate Teaching Assistant"
 collection: teaching
 permalink: /teaching/uc-berkeley
 venue: "University of California, Berkeley"
-date: 2015-09-01
 location: "Berkeley, California"
 ---
 
