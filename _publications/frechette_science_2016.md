@@ -12,4 +12,6 @@ Nguyen, V.P. Adiga, A. Zettl, E. Rabani, P.L. Geissler, A.P. Alivisatos, “Sing
 of nonequilibrium nanocrystal transformations,” Science 354, 874-877 (2016)'
 ---
 
+
+
 We used kinetic Monte Carlo simulations to reveal the microscopic mechanisms of nanocrystal etching.
