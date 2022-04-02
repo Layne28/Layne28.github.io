@@ -1,5 +1,5 @@
 ---
-title: "“Single-particle mapping of nonequilibrium nanocrystal transformations"
+title: "Unraveling kinetically-driven mechanisms of gold nanocrystal shape transformations using graphene liquid cell electron microscopy"
 collection: publications
 permalink: 
 excerpt: 'We extended our kinetic Monte Carlo simulations from previous work to explore the mechanisms nanocrystal etching over a range of nonequilibrium conditions.'
