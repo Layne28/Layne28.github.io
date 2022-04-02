@@ -4,7 +4,7 @@ collection: teaching
 type: 
 permalink: /teaching/brown-university
 venue: "University 1, Department"
-date: 2013-2015
+date: 
 location: "Providence, Rhode Island"
 ---
 
