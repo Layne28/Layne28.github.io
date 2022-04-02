@@ -3,7 +3,7 @@ title: "Undergraduate Teaching Assistant"
 collection: teaching
 type: 
 permalink: /teaching/brown-university
-venue: "University 1, Department"
+venue: "Brown University"
 date: 2013-09-01
 location: "Providence, Rhode Island"
 ---
