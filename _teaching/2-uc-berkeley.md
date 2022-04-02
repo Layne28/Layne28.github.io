@@ -1,7 +1,7 @@
 ---
 title: "Graduate Teaching Assistant"
 collection: teaching
-permalink: /teaching/uc-berkeley
+permalink: /teaching/2-uc-berkeley
 venue: "University of California, Berkeley"
 location: "Berkeley, California"
 ---
