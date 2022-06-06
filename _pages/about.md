@@ -12,8 +12,8 @@ Hello! I'm Layne. I am a physical scientist interested in the assembly, organiza
 
 **Education**
 
-I received my Sc.B. in Chemical Physics from Brown University. I completed my undergraduate thesis on liquid crystal dynamics with Richard Stratt. Subsequently, I earned a Ph.D. in Chemistry from UC Berkeley, working with Phill Geissler to study chemical transformations of nanocrystals. 
+I received my Sc.B. in Chemical Physics from Brown University. I completed my undergraduate thesis on liquid crystal dynamics with Richard Stratt. Subsequently, I earned a Ph.D. in Chemistry from UC Berkeley, working with Phill Geissler to study chemical transformations of nanocrystals. From August 2020 to May 2022 I was a postdoctoral fellow at NIH with Robert Best developing tools to understand protein folding and fold-switching using models of sequence coevolution.
 
-**Current and Future Research**
+**Current Research**
 
-I am currently a postdoctoral fellow at NIH with Robert Best developing tools to understand fold-switching proteins using coevolutionary information from their sequences. In summer of 2022, I will be joining the group of Monica Olvera de la Cruz as a postdoctoral researcher.
+In July of 2022, I will be joining Mike Hagan's group at Brandeis University as a postdoctoral researcher.
