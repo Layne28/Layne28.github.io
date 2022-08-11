@@ -16,4 +16,4 @@ I received my Sc.B. in Chemical Physics from Brown University. I completed my un
 
 **Current Research**
 
-I am currently a postdoctoral researcher in Mike Hagan's group at Brandies University, where I work on understanding and controlling active matter.
+I am currently a postdoctoral researcher in Mike Hagan's group at Brandeis University, where I work on understanding and controlling active matter.
