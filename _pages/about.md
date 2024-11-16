@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Layne. I am a physical scientist interested in the assembly, organization, and dynamics of nanoscale materials and soft matter. To study these phenomena, I use statistical mechanical theory and computer simulations. Please browse this website using the headers above to learn more about my research and teaching.
+Hello! I'm Layne. I am a physical scientist interested in the assembly, organization, and dynamics of nanoscale, biomolecular, and active materials. I develop and use tools of statistical mechanics, molecular simulation, and machine learning to uncover both the general principles and specific mechanisms of collective organization in diverse systems. Please browse this website using the headers above to learn more about my research and teaching.
 
 **Education**
 
@@ -16,4 +16,4 @@ I received my Sc.B. in Chemical Physics from Brown University. I completed my un
 
 **Current Research**
 
-I am currently a postdoctoral researcher in Mike Hagan's group at Brandeis University, where I work on understanding and controlling active matter.
+I am currently a postdoctoral researcher with Michael Hagan and Aparna Baskaran at Brandeis University, where I study the active assembly of soft materials, as well as virus assembly and encapsidation.
